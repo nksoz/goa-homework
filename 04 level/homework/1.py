@@ -1,4 +1,4 @@
-from turtle import *
+
 
 width(7)
 color("black")
@@ -126,4 +126,3 @@ goto(0, 0)
 hideturtle()
 done()
 
-#honestly after a while i just gave up
